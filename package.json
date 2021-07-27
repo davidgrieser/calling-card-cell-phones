@@ -1,0 +1,11 @@
+{
+  "name": "calling-card-cell-phones",
+  "version": "1.0.0",
+  "description": "Checkpoint for OOP Section",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Grieser",
+  "license": "ISC"
+}
